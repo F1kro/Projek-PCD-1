@@ -2,9 +2,6 @@
 
 Proyek ini adalah **tugas besar untuk praktikum Pengolahan Citra Digital 2025**. Tujuan utama dari proyek ini adalah untuk mengembangkan model *deep learning* yang mampu mengklasifikasikan citra kulit anjing untuk mendeteksi tiga kondisi utama: infeksi jamur, dermatitis hipersensitivitas, dan kondisi kulit yang sehat, sehingga dapat menyediakan alat bantu diagnosis awal yang cepat dan dapat diandalkan.
 
-![Contoh Gambar Anjing](https://placehold.co/600x300/EFEFEF/AAAAAA?text=Contoh+Citra+Dataset)
-*<p align="center">Ilustrasi proyek klasifikasi citra kulit anjing.</p>*
-
 ## 📋 Daftar Isi
 
 1.  [Pendahuluan](#-pendahuluan)
