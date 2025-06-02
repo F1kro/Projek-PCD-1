@@ -24,7 +24,7 @@ Dataset yang digunakan dalam proyek ini bersumber dari Kaggle:
 * **Tautan:** [kaggle.com/datasets/yashmotiani/dogs-skin-disease-dataset](https://www.kaggle.com/datasets/yashmotiani/dogs-skin-disease-dataset?select=Dogs)
 * **Deskripsi:** Dataset ini berisi kumpulan gambar kulit anjing yang telah dikategorikan berdasarkan jenis penyakit atau kondisi kulit. Untuk proyek ini, fokus utama adalah pada kelas infeksi jamur, dermatitis hipersensitivitas, dan kulit sehat. Dataset juga mencakup kategori lain seperti dermatosis bakterial yang dapat dieksplorasi untuk pengembangan lebih lanjut.
 * **Jumlah Gambar:** Sekitar 540+ gambar.
-* **Jumlah Gambar Total Setelah Filter:** Sekitar 340+ gambar.
+* **Jumlah Gambar Total Setelah Filter:** Sekitar 254 gambar.
 
 ## ✨ Fitur Utama
 
