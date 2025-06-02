@@ -43,6 +43,7 @@ Proyek ini dikembangkan oleh tim yang terdiri dari:
 2.  **Nengah Anggi Juwita Sari , F1D02310021**
 3.  **Fitri Nufa Dastana , F1D02310052**
 4.  **Raffi Fathoni , F1D02310133**
+
 Dengan Mentor Projek:
 1.  **Muhammad Eysar Assazily , F1D022070**
 
